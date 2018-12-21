@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Toast</string>
+    <string name="normal_toast">默认 Toast</string>
+    <string name="long_toast">长时间 Toast</string>
+    <string name="timer_toast">自定义10秒 Toast</string>
+    <string name="center_toast">中间 Toast</string>
+    <string name="bottom_toast">底部 Toast</string>
+    <string name="image_toast">图片 Toast</string>
+</resources>
